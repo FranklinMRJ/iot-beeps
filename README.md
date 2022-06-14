@@ -1,6 +1,7 @@
-# iot-beeps
+# iot-beeps evaluated data samples
+# by Franklin M. Ribeiro Junior
 
-The data collected by IoT Monitor and sent to IoT-Beeps is in this repository.
+The data collected by Fog-Monitor and sent to IoT-Beeps is in this repository.
 
 The CSV files contain the data of all scenarios.
 
