@@ -1,5 +1,5 @@
 # iot-beeps evaluated data samples
-# by Franklin M. Ribeiro Junior
+by Franklin M. Ribeiro Junior
 
 The data collected by Fog-Monitor and sent to IoT-Beeps is in this repository.
 
